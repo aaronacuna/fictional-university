@@ -1,2 +1,25 @@
 [23-Nov-2018 00:08:06 UTC] PHP Parse error:  syntax error, unexpected ')' in /app/public/wp-content/themes/fictional-university-theme/index.php on line 5
 [23-Nov-2018 00:08:52 UTC] PHP Parse error:  syntax error, unexpected ')' in /app/public/wp-content/themes/fictional-university-theme/index.php on line 5
+[24-Nov-2018 15:25:08 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 262144 bytes) in /app/public/wp-includes/cache.php on line 123
+[24-Nov-2018 15:25:08 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 262144 bytes) in /app/public/wp-includes/load.php on line 679
+[24-Nov-2018 15:25:18 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 262144 bytes) in /app/public/wp-includes/cache.php on line 123
+[24-Nov-2018 15:25:18 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 262144 bytes) in /app/public/wp-includes/load.php on line 679
+[24-Nov-2018 15:25:33 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 262144 bytes) in /app/public/wp-includes/cache.php on line 123
+[24-Nov-2018 15:25:33 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 262144 bytes) in /app/public/wp-includes/load.php on line 679
+[24-Nov-2018 15:26:20 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /app/public/wp-includes/class-wp-hook.php on line 279
+[24-Nov-2018 15:27:06 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /app/public/wp-includes/class-wp-hook.php on line 279
+[24-Nov-2018 15:29:50 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /app/public/wp-includes/class-wp-hook.php on line 271
+[24-Nov-2018 15:30:21 UTC] PHP Fatal error:  Allowed memory size of 853540864 bytes exhausted (tried to allocate 20480 bytes) in /app/public/wp-includes/class-wp-hook.php on line 271
+[24-Nov-2018 15:30:48 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /app/public/wp-includes/class-wp-hook.php on line 271
+[24-Nov-2018 15:32:17 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /app/public/wp-includes/class-wp-hook.php on line 271
+[24-Nov-2018 15:35:32 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 262144 bytes) in /app/public/wp-includes/cache.php on line 123
+[24-Nov-2018 15:35:33 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 262144 bytes) in /app/public/wp-includes/load.php on line 679
+[24-Nov-2018 15:37:30 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /app/public/wp-includes/class-wp-hook.php on line 279
+[24-Nov-2018 15:41:12 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 262144 bytes) in /app/public/wp-includes/cache.php on line 123
+[24-Nov-2018 15:41:12 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 262144 bytes) in /app/public/wp-includes/load.php on line 679
+[24-Nov-2018 15:42:29 UTC] PHP Warning:  register_shutdown_function(): Invalid shutdown callback 'shutdown_action_hook' passed in /app/public/wp-settings.php on line 128
+[24-Nov-2018 15:42:33 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 262144 bytes) in /app/public/wp-includes/cache.php on line 123
+[24-Nov-2018 15:42:51 UTC] PHP Warning:  register_shutdown_function(): Invalid shutdown callback 'shutdown_action_hook' passed in /app/public/wp-settings.php on line 128
+[24-Nov-2018 15:42:57 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 262144 bytes) in /app/public/wp-includes/cache.php on line 123
+[24-Nov-2018 15:43:23 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 262144 bytes) in /app/public/wp-includes/cache.php on line 123
+[24-Nov-2018 15:43:23 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 262144 bytes) in /app/public/wp-includes/load.php on line 679

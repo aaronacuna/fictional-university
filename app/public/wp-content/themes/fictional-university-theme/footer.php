@@ -1,0 +1,1 @@
+<p>Greetings from footer.pho</p>
