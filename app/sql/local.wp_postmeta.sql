@@ -9,5 +9,5 @@ INSERT INTO `wp_postmeta` VALUES
 (7,7,"_edit_last","1"),
 (8,7,"_edit_lock","1542932204:1"),
 (11,9,"_edit_last","1"),
-(12,9,"_edit_lock","1542933754:1"),
+(12,9,"_edit_lock","1543533565:1"),
 (13,2,"_edit_lock","1542933713:1");
